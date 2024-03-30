@@ -1,1 +1,1 @@
-# ShareYou.Client.Temp
+Временный репозиторий ShareYou для вёрстки
